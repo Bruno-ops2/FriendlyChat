@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@color/colorPrimary"
+    tools:context=".StartActivity"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Friendly Chat"
+        android:textSize="25dp"
+        android:layout_marginBottom="20dp"
+        android:textColor="@color/textcolor"
+        android:textStyle="bold|italic"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:layout_margin="10dp"
+        android:id="@+id/login"
+        android:textSize="18dp"
+        android:background="@color/colorPrimaryDark"
+        android:textColor="@color/textcolor"
+        android:layout_marginTop="20dp"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Register"
+        android:background="@color/colorPrimaryDark"
+        android:id="@+id/register"
+        android:textSize="18dp"
+        android:layout_margin="10dp"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/textcolor"/>
+
+</LinearLayout>

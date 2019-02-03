@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "179471331781",
+    "firebase_url": "https://coastal-fiber-187708.firebaseio.com",
+    "project_id": "coastal-fiber-187708",
+    "storage_bucket": "coastal-fiber-187708.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179471331781:android:e5cc3ab807302165",
+        "android_client_info": {
+          "package_name": "com.example.mohamed.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179471331781-mhbhpsu7il8k2qtnjq3tj1c868ktf9t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mohamed.friendlychat",
+            "certificate_hash": "8115d3d273810fc504a20a62324b13bc2367ab3d"
+          }
+        },
+        {
+          "client_id": "179471331781-sn9tk5k9lk9cm5gsq0vqavdrupku8s7s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClaODoUkXdaqg07poiqfRqg9sI0Rlq1Pg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179471331781-sn9tk5k9lk9cm5gsq0vqavdrupku8s7s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
